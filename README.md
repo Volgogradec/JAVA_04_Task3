@@ -16,11 +16,11 @@
 
 Скриншоты для решения задачи (важно - это не реальный сервис!):
 
-![](pic/one-year.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/methods/pic/one-year.png)
 
-![](pic/two-years.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/methods/pic/two-years.png)
 
-![](pic/three-years.png)
+![](https://github.com/netology-code/javaqa-homeworks/raw/master/methods/pic/three-years.png)
 
 
 <details>
